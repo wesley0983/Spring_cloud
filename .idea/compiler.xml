@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="admin_client" />
         <module name="admin_server" />
+        <module name="eureka_consumer" />
+        <module name="eureka_producer" />
         <module name="eureka_server_one" />
         <module name="eureka_server_three" />
         <module name="eureka_server_two" />
@@ -18,6 +20,8 @@
     <bytecodeTargetLevel>
       <module name="admin_client" target="1.8" />
       <module name="admin_server" target="1.8" />
+      <module name="eureka_consumer" target="1.8" />
+      <module name="eureka_producer" target="1.8" />
       <module name="eureka_server_one" target="1.8" />
       <module name="eureka_server_three" target="1.8" />
       <module name="eureka_server_two" target="1.8" />
@@ -29,6 +33,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="admin_client" options="-parameters" />
       <module name="admin_server" options="-parameters" />
+      <module name="eureka_consumer" options="-parameters" />
+      <module name="eureka_producer" options="-parameters" />
       <module name="eureka_server_one" options="-parameters" />
       <module name="eureka_server_three" options="-parameters" />
       <module name="eureka_server_two" options="-parameters" />

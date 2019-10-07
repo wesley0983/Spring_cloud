@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/spring_config_client_refresh_eureka_bus/pom.xml" />
         <option value="$PROJECT_DIR$/admin_server/pom.xml" />
         <option value="$PROJECT_DIR$/admin_client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_consumer/pom.xml" />
       </list>
     </option>
   </component>

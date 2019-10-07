@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: eureka-producer
+eureka:
+  instance:
+    prefer-ip-address: true
+#    instance-id: 书籍订单服务-8001
+  client:
+    service-url:
+      defaultZone: http://localhost:7000/eureka/
+server:
+  port: 8080
