@@ -10,3 +10,9 @@ eureka:
       defaultZone: http://localhost:7000/eureka/
 server:
   port: 8080
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
