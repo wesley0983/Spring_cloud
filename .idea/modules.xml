@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring_cloud.iml" filepath="$PROJECT_DIR$/.idea/Spring_cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin_client/admin_client.iml" filepath="$PROJECT_DIR$/admin_client/admin_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin_server/admin_server.iml" filepath="$PROJECT_DIR$/admin_server/admin_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" filepath="$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" />
@@ -9,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/eureka_server_one/eureka_server_one.iml" filepath="$PROJECT_DIR$/eureka_server_one/eureka_server_one.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server_three/eureka_server_three.iml" filepath="$PROJECT_DIR$/eureka_server_three/eureka_server_three.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server_two/eureka_server_two.iml" filepath="$PROJECT_DIR$/eureka_server_two/eureka_server_two.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_config_client_refresh_eureka_bus/spring_config_client_refresh_eureka_bus.iml" filepath="$PROJECT_DIR$/spring_config_client_refresh_eureka_bus/spring_config_client_refresh_eureka_bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_config_server_eureka_bus/spring_config_server_eureka_bus.iml" filepath="$PROJECT_DIR$/spring_config_server_eureka_bus/spring_config_server_eureka_bus.iml" />
     </modules>
