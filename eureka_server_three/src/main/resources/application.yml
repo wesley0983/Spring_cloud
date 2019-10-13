@@ -11,4 +11,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://peer2:7002/eureka/,http://peer3:7003/eureka/  #設置與Eureka Server交行的地址查詢服務和註冊服務
+      defaultZone: http://peer1:7000/eureka/,http://peer2:7002/eureka/  #設置與Eureka Server交行的地址查詢服務和註冊服務
