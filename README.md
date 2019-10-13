@@ -3,6 +3,8 @@
 ## eureka 群集服務
 
 啟動one、two、three三個eureka註冊服務。
+本地hosts需加上
+127.0.0.1 peer1 peer2
 
 ### eureka 生產者
 
